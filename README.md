@@ -10,7 +10,6 @@ Welcome to my C++ learning repository! Here, I document my journey from basic to
 - [Resources](#resources)
 - [Progress](#progress)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -21,7 +20,7 @@ In this repository, I share my journey of learning C++ programming. As a develop
 If you're new to C++ or want to follow along with my learning journey, you can start by cloning this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/cplusplus-learning.git
+https://github.com/abhaydubey200/code-with-c-.git
 ```
 
 Then, dive into the code, explore the files, and feel free to experiment with them on your own.
@@ -71,11 +70,5 @@ I'll be updating my progress regularly in this section. Check back often to see 
 ## Contributing
 
 If you have any suggestions, improvements, or corrections to the code or documentation, feel free to open an issue or submit a pull request. I appreciate any contributions that can help improve my learning experience!
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for your own learning purposes or projects.
-
----
 
 Feel free to customize this template to better fit your learning journey and preferences. Happy coding!
