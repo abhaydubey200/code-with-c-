@@ -1,1 +1,3 @@
-obj1.w="hello";
+   // A p1;
+    // p1.displayMic();
+    // p1.displayKey();
